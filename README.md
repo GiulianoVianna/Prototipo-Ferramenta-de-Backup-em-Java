@@ -1,7 +1,8 @@
-# Aplicação de Agendamento de Backup
+# Aplicação de Agendamento de Backup em Java
 
 ![image](https://github.com/GiulianoVianna/Prototipo-Ferramenta-de-Backup-em-Java/assets/101942554/6683a104-2382-4047-9cbd-59f8d29e1436)
 
+https://github.com/GiulianoVianna/Prototipo-Ferramenta-de-Backup-em-Java/assets/101942554/b64d3a76-14b2-4567-9cd7-65191e36eeb0
 
 Esta aplicação oferece uma solução completa para agendar e executar backups automáticos de arquivos e diretórios. Com uma interface amigável, os usuários podem configurar facilmente os backups, escolher entre diferentes opções e gerenciar agendamentos.
 
